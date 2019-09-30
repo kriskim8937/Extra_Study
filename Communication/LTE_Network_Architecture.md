@@ -20,3 +20,4 @@
 
 ## reference
 - https://www.netmanias.com/ko/post/blog/5344/lte/lte-network-architecture-network-reference-model
+- https://m.blog.naver.com/PostView.nhn?blogId=netrance&logNo=110123181843&proxyReferer=https%3A%2F%2Fwww.google.com%2F
