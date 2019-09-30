@@ -16,3 +16,7 @@
 ### HSS
 ### PCRF
 ### SPR
+
+
+## reference
+- https://www.netmanias.com/ko/post/blog/5344/lte/lte-network-architecture-network-reference-model
