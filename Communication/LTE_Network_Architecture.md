@@ -7,7 +7,7 @@
 - It has LTE chip so it can be attatched to LTE network
 ### eNB(Evolved Node B)
 - LTE center, connect UE and LTE network
-- Only between UE and eNB is wireless connection and other networks are all wired connection'
+- Connection between UE and eNB is only wireless connection and other networks are all wired connection'
 ### S-GW(Serving Gateway)
 -
 - 
