@@ -46,3 +46,5 @@
   - kubelet : 포드 정의 파일에 따라 컨테이너를 실행하거나 스토리지를 마운트 한다. 노드의 스테이터ㄹ스를 정기섲ㄱ으로 감시한다.
   - kube-proxy: 
 ## Orchestration
+## referencs
+- https://kubernetes.io/ko/docs/concepts/workloads/pods/pod-overview/
