@@ -19,6 +19,11 @@ A security hole in Bash dating from version 1.03 (August 1989),[15] dubbed Shell
 - basic debugging
 - signal handling
 - filename globbing (wildcard matching)
-- piping, here documents
+- piping
+- here documents
 - command substitution 
 - variables and control structures for condition-testing and iteration.
+
+## what is sh, bsh, tcsh, ksh, bash, zsh
+- sh // bourne shell
+- csh, tcsh // cshell
